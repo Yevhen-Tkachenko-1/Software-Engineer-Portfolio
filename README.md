@@ -264,7 +264,7 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### LinkedIn Learning. Completed 27 self-study courses:
 
-| Completed | Course                                                                                                                                                              |                                     Personal Repo                                      |    Level     |                                        Certificate                                         |
+| Completed | LinkedIn Course                                                                                                                                                     |                                     Personal Repo                                      |    Level     |                                        Certificate                                         |
 |----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------:|:------------:|:------------------------------------------------------------------------------------------:|
 |  Sep 2023 | [Java Database Access with Hibernate](https://www.linkedin.com/learning/java-database-access-with-hibernate)                                                        |                                                                                        | Intermediate | [Details](resources/certificates/Parallel-and-Concurrent-Programming-with-Java-Part-1.pdf) |
 |  Sep 2023 | [Spring 5.0 and Spring Boot 2.0 New Features](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)                                        | [Demo & Exercises](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application) | Intermediate | [Details](resources/certificates/Parallel-and-Concurrent-Programming-with-Java-Part-1.pdf) |
@@ -307,28 +307,31 @@ Working on my hard and soft skills, have next achievements so far:
   - Aug 2021. [Practical Test-Driven Development for Java Programmers](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers).
   - Jul 2021. [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-13966302).
 
-#### EPAM Learning. Completed educational program:
+#### EPAM Learning. Completed 4 trainings:
 
-- Jun 2022 - Aug 2022. Cloud Platforms for developers - AWS Developer.<br>
-  Completed 7 self-study modules with a Mentor review:
-    - AWS Essential, AWS Account
-    - IAM, S3, EC2, VPC
-    - Cloud Formation
+| Completed | Course Name                     |   Efforts | Type                | Acceptance     |
+|----------:|:--------------------------------|----------:|:--------------------|:---------------|
+|  Aug 2022 | CloudX Associate: AWS Developer |  30 hours | Educational program | Mentor review  |
+|  Mar 2021 | CloudX: Foundations for Tech    |   5 hours | Self-study course   | Quiz           |
+|  Sep 2021 | Becoming a Tech Mentor          | 1.5 hours | Self-study course   | Quiz           |
+|  Jan 2021 | Getting Ready for Assessment    | 1.5 hours | Self-study course   | Quiz           |
 
-#### Book Library
+#### Books Reading:
 
-- 2023\. Designing Data-Intensive Applications - Martin Kleppmann.
-- 2020\. Java XML and JSON: Document processing for Java SE - Jeff Friesen.
-- 2019\. Kotlin - Head First.
-- 2019\. Android Development - Head First.
-- 2019\. Design Patterns - Head First.
-- 2019\. Pro JavaFX 8: Building Desktop, Mobile, and Embedded Java Clients - Apress.
-- 2018\. Learn JavaFX 8: Building User Experience and Interfaces - Kishori Sharan.
-- 2018\. JavaFX 8: Introduction By Example - Apress.
-- 2018\. Java: A Beginner's Guide - Herbert Schildt.
-- 2018\. Effective Java - Joshua Bloch.
-- 2018\. The C++ Programming Language - Bjarne Stroustrup.
-- 2018\. The C Programming Language - Brian W.Kernighan, Dennis M.Ritchie.
+| Date | Book Name                                                         | Authorship                            |
+|:----:|:------------------------------------------------------------------|:--------------------------------------|
+| 2023 | Designing Data-Intensive Applications                             | Martin Kleppmann                      |
+| 2020 | Java XML and JSON: Document processing for Java SE                | Jeff Friesen                          |
+| 2019 | Kotlin                                                            | Head First                            |
+| 2019 | Android Development                                               | Head First                            |
+| 2019 | Design Patterns                                                   | Head First                            |
+| 2019 | Pro JavaFX 8: Building Desktop, Mobile, and Embedded Java Clients | Apress                                |
+| 2018 | Learn JavaFX 8: Building User Experience and Interfaces           | Kishori Sharan                        |
+| 2018 | JavaFX 8: Introduction By Example                                 | Apress                                |
+| 2018 | Java: A Beginner's Guide                                          | Herbert Schildt                       |
+| 2018 | Effective Java                                                    | Joshua Bloch                          |
+| 2018 | The C++ Programming Language                                      | Bjarne Stroustrup                     |
+| 2018 | The C Programming Language                                        | Brian W.Kernighan<br>Dennis M.Ritchie |
 
 # Project Changing
 

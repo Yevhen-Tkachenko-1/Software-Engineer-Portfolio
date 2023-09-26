@@ -249,18 +249,18 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### EPAM English classes. Completed 10 live trainings:
 
-|    Start |      End | Name                               | Level       |    Efforts |
-|---------:|---------:|:-----------------------------------|:------------|-----------:|
-| Jul 2023 | Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons |
-| Apr 2023 | Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons |
-| Oct 2022 | Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons |
-| Sep 2022 | Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons |
-| Jun 2022 | Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons |
-| Mar 2022 | Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons |
-| Jan 2022 | Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons |
-| Nov 2021 | Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons |
-| Apr 2021 | Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons |
-| Mar 2021 | May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons |
+| Completed | Name                               | Level       |    Efforts |  Duration |
+|----------:|:-----------------------------------|:------------|-----------:|----------:|
+|  Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons |  3 months |
+|  Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons |  4 months |
+|  Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons |  7 months |
+|  Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons |  3 months |
+|  Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons |  2 months |
+|  Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons |  4 months |
+|  May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons |  3 months |
+|  Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons |  2 months |
+|  Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons |  2 months |
+|  Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons |  7 months |
 
 #### EPAM Learning. Completed 4 trainings:
 

@@ -281,7 +281,7 @@ Working on my hard and soft skills, have next achievements so far:
 |  Sep 2023 | [**AWS for Developers: SNS, SQS, and SWF**]                           |                                                                                                  |   Advanced   | [Details](resources/certificates/Parallel-and-Concurrent-Programming-with-Java-Part-1.pdf) |
 |  Sep 2023 | [**Advanced Spring: Effective Integration Testing with Spring Boot**] | [Demo&nbsp;&&nbsp;Exercises](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application) |   Advanced   | [Details](resources/certificates/Parallel-and-Concurrent-Programming-with-Java-Part-1.pdf) |
 |  Sep 2023 | [**Microsoft Azure Fundamentals**][LinkedIn-N-2]                      |                                                                                                  |   Beginner   | [Details](resources/certificates/Parallel-and-Concurrent-Programming-with-Java-Part-1.pdf) |
-|  Sep 2023 | [**Learning Kubernetes**][LinkedIn-N-1]                               |                                                                                                  | Intermediate | [Details](resources/certificates/Parallel-and-Concurrent-Programming-with-Java-Part-1.pdf) |
+|  Sep 2023 | [Learning Kubernetes][LinkedIn-N-1]                                   |                                                                                                  | Intermediate | [Details](resources/certificates/Parallel-and-Concurrent-Programming-with-Java-Part-1.pdf) |
 
 [LinkedIn-N-1]: (https://www.linkedin.com/learning/java-database-access-with-hibernate)
 [LinkedIn-N-1]: (https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)
@@ -289,7 +289,7 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-N-1]: (https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf)
 [LinkedIn-N-3]: https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot
 [LinkedIn-N-2]: (https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020)
-[LinkedIn-N-1] https://www.linkedin.com/learning/learning-kubernetes-16086900
+[LinkedIn-N-1]: (https://www.linkedin.com/learning/learning-kubernetes-16086900)
 
   - Sep 2023. [Java Database Access with Hibernate](https://www.linkedin.com/learning/java-database-access-with-hibernate)
   - Sep 2023. [Spring 5.0 and Spring Boot 2.0 New Features](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)

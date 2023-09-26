@@ -287,9 +287,9 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-N-1]: (https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)
 [LinkedIn-N-1]: (https://www.linkedin.com/learning/spring-spring-data-2-2017)
 [LinkedIn-N-1]: (https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf)
-[LinkedIn-N-3]: (https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot)
+[LinkedIn-N-3]: https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot
 [LinkedIn-N-2]: (https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020)
-[LinkedIn-N-1]: https://www.linkedin.com/learning/learning-kubernetes-16086900
+[LinkedIn-N-1] https://www.linkedin.com/learning/learning-kubernetes-16086900
 
   - Sep 2023. [Java Database Access with Hibernate](https://www.linkedin.com/learning/java-database-access-with-hibernate)
   - Sep 2023. [Spring 5.0 and Spring Boot 2.0 New Features](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)

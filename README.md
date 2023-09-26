@@ -249,18 +249,27 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### EPAM English classes. Completed 10 live trainings:
 
-|    Start |      End | Course Name                    | Level       | Lessons |
-|---------:|---------:|:-------------------------------|:------------|--------:|
-| Jul 2023 | Sep 2023 | Presenting and Public Speaking | B1+/B2/B2+  |      20 |
-| Apr 2023 | Jul 2023 | Virtual Communication          | B1+/B2/B2+  |      26 |
-| Oct 2022 | Apr 2023 | Business Communication         | B1+/B2      |      41 |
-| Sep 2022 | Nov 2022 | IT Grammar                     | B1+/B2      |      17 |
-| Jun 2022 | Jul 2022 | Small Talks                    | B1/B1+      |       8 |
-| Mar 2022 | Jul 2022 | IT Grammar                     | A2+/B1      |      17 |
-| Jan 2022 | Feb 2022 | Project Interviews             | A2+/B1/B1+  |      10 |
-| Nov 2021 | Dec 2021 | Breaking the Language Barrier  | A2+/B1      |      11 |
-| Apr 2021 | Oct 2021 | Business Communication         | A2+/B1      |      40 |
-| Mar 2021 | May 2022 | Speaking Club                  | B1/B2/C1/C2 |      10 |
+|    Start |      End | Course Name                    | Level       |    Efforts |
+|---------:|---------:|:-------------------------------|:------------|-----------:|
+| Jul 2023 | Sep 2023 | Presenting and Public Speaking | B1+/B2/B2+  | 20 lessons |
+| Apr 2023 | Jul 2023 | Virtual Communication          | B1+/B2/B2+  | 26 lessons |
+| Oct 2022 | Apr 2023 | Business Communication         | B1+/B2      | 41 lessons |
+| Sep 2022 | Nov 2022 | IT Grammar                     | B1+/B2      | 17 lessons |
+| Jun 2022 | Jul 2022 | Small Talks                    | B1/B1+      |  8 lessons |
+| Mar 2022 | Jul 2022 | IT Grammar                     | A2+/B1      | 17 lessons |
+| Jan 2022 | Feb 2022 | Project Interviews             | A2+/B1/B1+  | 10 lessons |
+| Nov 2021 | Dec 2021 | Breaking the Language Barrier  | A2+/B1      | 11 lessons |
+| Apr 2021 | Oct 2021 | Business Communication         | A2+/B1      | 40 lessons |
+| Mar 2021 | May 2022 | Speaking Club                  | B1/B2/C1/C2 | 10 lessons |
+
+#### EPAM Learning. Completed 4 trainings:
+
+| Completed | Name                            | Type                |   Efforts | Acceptance    |
+|----------:|:--------------------------------|:--------------------|----------:|:--------------|
+|  Aug 2022 | CloudX Associate: AWS Developer | Educational program |  30 hours | Mentor review |
+|  Mar 2021 | CloudX: Foundations for Tech    | Self-study course   |   5 hours | Quiz          |
+|  Sep 2021 | Becoming a Tech Mentor          | Self-study course   | 1.5 hours | Quiz          |
+|  Jan 2021 | Getting Ready for Assessment    | Self-study course   | 1.5 hours | Quiz          |
 
 #### LinkedIn Learning. Completed 27 self-study courses:
 
@@ -306,15 +315,6 @@ Working on my hard and soft skills, have next achievements so far:
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play) for exercises.
   - Aug 2021. [Practical Test-Driven Development for Java Programmers](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers).
   - Jul 2021. [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-13966302).
-
-#### EPAM Learning. Completed 4 trainings:
-
-| Completed | Course Name                     |   Efforts | Type                | Acceptance     |
-|----------:|:--------------------------------|----------:|:--------------------|:---------------|
-|  Aug 2022 | CloudX Associate: AWS Developer |  30 hours | Educational program | Mentor review  |
-|  Mar 2021 | CloudX: Foundations for Tech    |   5 hours | Self-study course   | Quiz           |
-|  Sep 2021 | Becoming a Tech Mentor          | 1.5 hours | Self-study course   | Quiz           |
-|  Jan 2021 | Getting Ready for Assessment    | 1.5 hours | Self-study course   | Quiz           |
 
 #### Books Reading:
 
